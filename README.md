@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 - 🔭 I’m currently working on research papers, deep learning methodology for medical imaging, development of a novel deep learning algorithms for classification applications, particularly with multi-model learning and deep generative models domains.
 - 🌱 I’m currently (re)learning C++ and mastering MLOps, GenAI and Deep Reinforcement Learning.
