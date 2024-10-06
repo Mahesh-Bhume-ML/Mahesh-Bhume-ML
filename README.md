@@ -1,8 +1,7 @@
 ### Hi there :wave:
 
-- 🔭 I’m currently working on research papers, deep learning methodology for medical imaging, development of a novel deep learning algorithms for classification applications, particularly with multi-model learning and deep generative models domains.
-- 🌱 I’m currently (re)learning C++ and mastering MLOps, GenAI and Deep Reinforcement Learning.
-- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision, NLP.
+- 🌱 I’m currently (re)learning C++ and mastering Language modeling, Diffusion models, MLOps, DevOps, GenAI and Deep Reinforcement Learning.
+- 💬 Ask me about Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
 - 📫 How to reach me: maheshb64@gmail.com
 
 <!--
