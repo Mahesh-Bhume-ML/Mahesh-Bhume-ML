@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- 🌱 I’m currently (re)learning C++ and mastering Language modeling, Diffusion models, MLOps, DevOps, GenAI and Deep Reinforcement Learning.
+- 🌱 I’m currently (re)learning C++ and mastering Language modeling, LLMOps, Diffusion models, MLOps, DevOps, GenAI, including spiking neural network (SNN), continual learning, competitive learning, Deep Reinforcement Learning ( Q-learning, Deep Q-Networks (DQN), proximal policy optimization, direct preference optimization).
 - 💬 Ask me about Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
 - 📫 How to reach me: maheshb64@gmail.com
 
